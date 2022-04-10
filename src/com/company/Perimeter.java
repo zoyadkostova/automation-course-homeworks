@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Perimeter {
-
+//Perimeter class
     public static void main(String[] args){
 
         float side1,side2,side3, perimeter;
