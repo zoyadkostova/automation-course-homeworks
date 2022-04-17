@@ -12,7 +12,7 @@ public class task7 {
 
         for (int i = arrayLength; i >= 0; i--)
         {
-
+            
             System.out.print(list1[i] + " ");
         }
     }
