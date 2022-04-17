@@ -22,9 +22,7 @@ public class task4 {
                 list.add(number);
             }
 
-            System.out.println("Before Sorting: " + list);
             Collections.sort(list);
-            System.out.println("After Sorting: " + list);
             System.out.println("Biggest number in the list: " + list.get(i-1));
         }
     }
